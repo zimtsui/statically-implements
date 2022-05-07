@@ -1,9 +1,9 @@
 {
-  "name": "ts-template",
+  "name": "statically-implements",
   "version": "0.0.1",
   "description": "",
-  "main": "./build/index.js",
-  "types": "./build/index.d.ts",
+  "main": "./build/statically-implements.js",
+  "types": "./build/statically-implements.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -b ./src/tsconfig.json",
